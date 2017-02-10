@@ -30,8 +30,8 @@ Over 2016 we carried out research into existing data supply, and key user needs,
 We will confirm the final agenda based on the teams attending and conversations with you each in advance, but at an outline, it will look something like this:
 
 
-* **Day 1: Exploring user needs & challenges *(10am start)***  
- We launch with a workshop at the UK Department for International Development, focussing on user needs for better data on agricultural investments. With input from country officers, researchers and agriculture specialists.
+* **Day 1: Exploring user needs & challenges *(From 9am)***  
+ We launch with a workshop focussing on user needs for better data on agricultural investments. With input from country officers, researchers and agriculture specialists.
 
 Followed by discussion sessions on key challenges, and team planning sessions.
 
@@ -43,8 +43,8 @@ We’ll be inviting selected experts on agriculture, machine learning, and appli
 * **Day 3: Prototype and pitch development**  
  Continued working on the prototypes, and time to work up a proposal for further project funding, identifying how to go from prototype to production-ready tool or features over 2017.
 
-* **Day 4: Prep, pitches and next steps *(till 4pm)***  
- Back at DFID to present the outcomes, and pitch to a panel from the Open Ag Funding project for resource to develop projects further.
+* **Day 4: Prep, pitches and next steps *(till 2pm)***  
+A session to present the outcomes, and pitch to a panel from the Open Ag Funding project for resource to develop projects further.
 
 The event is less a competition, and much more a space for us to collaborate and co-create solutions to shared problems in making IATI data effective, and agriculture-relevant.
 
